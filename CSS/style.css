@@ -484,7 +484,7 @@
 @layer contact {
     .contact {
         padding: 4rem 1rem;
-        background: var(--black) url("https://assets.codepen.io/296057/fem-aurora.jpg") center center;
+        background: var(--black) url("https://assets.codepen.io/296057/fem-stars-sky.jpg") center center;
         background-repeat: no-repeat;
         color: var(--white);
         display: flex;
@@ -532,7 +532,7 @@
 @layer footer {
     footer {
         padding: 6rem 0rem;
-        background: var(--black) url("https://assets.codepen.io/296057/fem-stars.jpg") center center;
+        background: var(--black) url("https://assets.codepen.io/296057/fem-stars-sky.jpg") center center;
         background-repeat: no-repeat;
         color: var(--white);
         display: flex;
