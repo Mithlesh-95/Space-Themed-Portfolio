@@ -579,7 +579,7 @@
     .contact-info h2 {
         text-transform: uppercase;
     }
-    .contact a{
+    .btn a{
         text-decoration: none;
         color: var(--black);
     }
