@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemap>
+    <homePage>
+        <metaInformation>
+            <charset>UTF-8</charset>
+            <viewport>width=device-width, initial-scale=1.0</viewport>
+            <description>Markanti Mithlesh's personal portfolio showcasing projects and skills</description>
+            <keywords>HTML, CSS, portfolio, projects, skills</keywords>
+            <author>Markanti Mithlesh Kumar</author>
+            <openGraph>
+                <type>website</type>
+                <url>https://portfolio.saimithlesh.me</url>
+            
+            </openGraph>
+            <twitter>
+                <card>summary_large_image</card>
+                <creator>@markanti_mithlesh</creator>
+            </twitter>
+        </metaInformation>
+        <header>
+            <navigation>
+                <link href="index.html">Home</link>
+                <link href="#projects">Projects</link>
+                <link href="#about">About</link>
+                <link href="#contact">Contact</link>
+            </navigation>
+            <logo>
+                <url>index.html</url>
+            </logo>
+        </header>
+        <intro>
+            <title>Hi, I am Markanti Mithlesh Kumar.</title>
+            <description>HTML, CSS, User Experience</description>
+        </intro>
+        <sections>
+            <about>
+                <education>
+                    <school>
+                        <name>NRI Junior College</name>
+                        <duration>Sept 2021 - Sept 2023</duration>
+                    </school>
+                    <college>
+                        <name>CMR Engineering College</name>
+                        <duration>Sept 2023 - Sept 2027</duration>
+                    </college>
+                </education>
+            </about>
+            <projects>
+                <project>
+                    <name>Tic-Tac-Toe</name>
+                    <description>A classic game of Tic-Tac-Toe built using HTML, CSS, and JavaScript. Players can take turns placing their marks and the game ends when one player wins or all spots are filled.</description>
+                    <link>https://www.saimithlesh.freewebhostmost.com/</link>
+                </project>
+                <project>
+                    <name>Rock-Paper-Scissors</name>
+                    <description>A fun Rock-Paper-Scissors game where users can play against the computer. Built with HTML, CSS, and JavaScript, this project demonstrates basic game logic and interaction.</description>
+                    
+                </project>
+            </projects>
+        </sections>
+    </homePage>
+    <externalLinks>
+        <linkedin>
+            <url>https://www.linkedin.com/in/markanti-mithlesh-kumar-944309297/</url>
+        </linkedin>
+        <github>
+            <url>https://github.com/Mithlesh-95</url>
+        </github>
+    </externalLinks>
+    <resume>
+        <button>
+            <label>Download Resume</label>
+            
+        </button>
+    </resume>
+</sitemap>
