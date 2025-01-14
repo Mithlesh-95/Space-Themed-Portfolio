@@ -121,9 +121,6 @@
         background-color: var(--red);
     }
 
-    a {
-        color: var(--green);
-    }
 
     a:hover {
         text-decoration: none;
