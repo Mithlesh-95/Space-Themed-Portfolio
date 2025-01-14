@@ -1,38 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<sitemap xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://portfolio.saimithlesh.me</loc>
+        <loc>https://portfolio.saimithlesh.me/</loc>
         <lastmod>2025-01-14</lastmod>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://portfolio.saimithlesh.me/index.html</loc>
+        <loc>https://portfolio.saimithlesh.me/#about</loc>
         <lastmod>2025-01-14</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://www.saimithlesh.freewebhostmost.com/tic-tac-toe</loc>
+        <loc>https://portfolio.saimithlesh.me/#contact</loc>
         <lastmod>2025-01-14</lastmod>
-        <priority>0.7</priority>
+        <priority>0.8</priority>
     </url>
-    <url>
-        <loc>https://www.saimithlesh.freewebhostmost.com/rock-paper-scissors</loc>
-        <lastmod>2025-01-14</lastmod>
-        <priority>0.7</priority>
-    </url>
-    <url>
-        <loc>https://www.linkedin.com/in/markanti-mithlesh-kumar-944309297/</loc>
-        <lastmod>2025-01-14</lastmod>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://github.com/Mithlesh-95</loc>
-        <lastmod>2025-01-14</lastmod>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://portfolio.saimithlesh.me/resume.pdf</loc>
-        <lastmod>2025-01-14</lastmod>
-        <priority>0.6</priority>
-    </url>
-</urlset>
+</sitemap>
