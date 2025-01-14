@@ -582,6 +582,10 @@
     .contact-info h2 {
         text-transform: uppercase;
     }
+    .contact a{
+        text-decoration: none;
+        color: var(--black);
+    }
 
     .btn {
         background-color: var(--green);
